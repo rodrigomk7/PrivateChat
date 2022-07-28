@@ -1,6 +1,6 @@
 # PrivateChat
 
-Link al proyecto: https://hurricane-keen-middle.glitch.me
+Link a la demo del proyecto: https://hurricane-keen-middle.glitch.me
 
 Se es desarrollo un chat privado. Usando la tecnología de Websocket que permite una comunicación bidireccional entre cliente y servidor sobre un único socket TCP. 
 
